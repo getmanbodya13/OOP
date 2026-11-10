@@ -1,0 +1,10 @@
+﻿  Number.cpp
+  Object.cpp
+  PackedSize.cpp
+  RealMath.cpp
+  RealPriv.cpp
+  RealPub.cpp
+  UnitTest1.cpp
+  Generating Code...
+     Creating library C:\Users\Admin\Documents\ООП Гетьман Богдан\lab 3\lab3.3D\ARM64\Debug\UnitTest1.lib and object C:\Users\Admin\Documents\ООП Гетьман Богдан\lab 3\lab3.3D\ARM64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Admin\Documents\ООП Гетьман Богдан\lab 3\lab3.3D\ARM64\Debug\UnitTest1.dll
