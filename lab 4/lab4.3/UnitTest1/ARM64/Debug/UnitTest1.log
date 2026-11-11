@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Admin\Documents\ООП Гетьман Богдан\lab 4\lab4.3\lab4.3\ArrayNumbers.h(155,9): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'UnitTest1.cpp')
+      C:\Users\Admin\Documents\ООП Гетьман Богдан\lab 4\lab4.3\lab4.3\ArrayNumbers.h(155,9):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Admin\Documents\ООП Гетьман Богдан\lab 4\lab4.3\lab4.3\ArrayNumbers.h(369,20):
+          see reference to class template instantiation 'Number<16,Hex>' being compiled
+          C:\Users\Admin\Documents\ООП Гетьман Богдан\lab 4\lab4.3\lab4.3\ArrayNumbers.h(153,12):
+          while compiling class template member function 'std::string Number<16,Hex>::typeName(void) const'
+  
+     Creating library C:\Users\Admin\Documents\ООП Гетьман Богдан\lab 4\lab4.3\ARM64\Debug\UnitTest1.lib and object C:\Users\Admin\Documents\ООП Гетьман Богдан\lab 4\lab4.3\ARM64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Admin\Documents\ООП Гетьман Богдан\lab 4\lab4.3\ARM64\Debug\UnitTest1.dll
